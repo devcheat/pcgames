@@ -1,4 +1,10 @@
 # Age of Empires 4
+- Cheat codes were first introduced to Age of Empires IV with the Anniversary Edition. 
+- To use cheat codes, press Enter during game play to bring up a text box, enter the code and press Enter again. The codes are not case sensitive.
+- All cheat units are spawned from the player's main Town Center.
+- Entering any cheat codes will prevent the user from obtaining any achievements or masteries in that session. 
+- To use cheat codes in custom games, the option must be selected before start. 
+- A notification will appear in chat when used, and it will be marked on the timeline.
 
 ## Spawns
 - `photon man` - Spawns a Photon Man unit (Custom/Skirmish)
